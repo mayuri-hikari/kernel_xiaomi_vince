@@ -78,4 +78,4 @@
 	};
 };
 
-#include "vince/vince-overlay.dtsi"
+#include "vince/overlay.dtsi"
